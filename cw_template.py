@@ -252,11 +252,6 @@ def save_results_to_csv(airportcode, year, results):
 def plot_airline_histogram(airline_code, airportcode, year):
     """
     This Function plots a horizontal histogram of total departing flights per hour
-
-    Reference for Assistance
-    1.  The histogram plotting functionality using graphics.py in this program 
-        was implemented with guidance and explanation provided by ChatGPT, 
-        an AI language model by OpenAI.
     """
     
     # Importing graphics.py
